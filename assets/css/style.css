@@ -333,7 +333,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 15px;
+  gap: 10px;
 }
 
 .avatar-box {
